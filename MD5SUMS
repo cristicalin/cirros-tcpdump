@@ -1,8 +1,8 @@
-e441167339f3ba9c0e2abd8aca9aff0d  cirros-d200605-x86_64-disk.img
-c2ebf214d794e09367ce7ec6121febb4  cirros-d200605-x86_64-initramfs
-9e4b82871545ee486b7e0504b49d65a2  cirros-d200605-x86_64-kernel
-5cfcb5731ce60a694bae0a567f2b9b8e  cirros-d200605-x86_64-lxc.tar.gz
-1afeecb88bb6c0197d08d0c0b599400e  cirros-d200605-x86_64-lxc.tar.xz
-97219cedd8e7cda2f3f5e043c8343ea7  cirros-d200605-x86_64-lxd.tar.xz
-528d466567ab8c95c97f29bf3dc6f66e  cirros-d200605-x86_64-rootfs.img.gz
-c671045422dc9cfab6dff20aa3ee5ca4  cirros-d200605-x86_64-uec.tar.gz
+b4a38463a0b93c4cc5c20af59015214f  cirros-d200701-x86_64-disk.img
+d273e0467b5bfd7e66db6cf9e42b6afb  cirros-d200701-x86_64-initramfs
+9e4b82871545ee486b7e0504b49d65a2  cirros-d200701-x86_64-kernel
+ba562e9fa8dae0717f3e848575b93c9b  cirros-d200701-x86_64-lxc.tar.gz
+1c57277270f391c0c9b2e1032fd8ea13  cirros-d200701-x86_64-lxc.tar.xz
+ceb5c38abbf79ced76ddebc5b27315b2  cirros-d200701-x86_64-lxd.tar.xz
+1b1f18a489cb3cef5dc02af203bd854f  cirros-d200701-x86_64-rootfs.img.gz
+73ac2ccfe780cdb0aff08b4834ef4e3f  cirros-d200701-x86_64-uec.tar.gz
